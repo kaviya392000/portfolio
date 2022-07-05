@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Fascinate&family=Josefin+Sans:wght@100&family=Lobster&family=Smooch&family=Yellowtail&display=swap');
+
+
+img{
+    margin-left: 50px;
+    padding: 2px;
+
+}
+p{
+    color: 292651;
+    font-style:italic;
+    text-align: center;
+    font-size: 25px;
+}
+body{
+    background-color:oldlace;
+    text-align: center;
+    margin: 0px;
+}
+#menu{
+    position: fixed;
+    background-color: white;
+    width: 100%;
+    margin-top: 0px;
+    font-size: 20px;
+}
+.links{
+    display: inline;
+    padding-right: 35px;
+    padding-left: 35px;
+    font-family: 'Smooch', cursive;
+
+}
+a{
+    text-decoration: none;
+    text-shadow: 1px 1px black;
+
+}
+.links:hover{
+    font-size: 25px;
+    text-decoration: underline;
+}
+html{
+    scroll-behavior: smooth;
+}
+.profile{
+    border-radius: 90%;
+    margin-top: 50px;
+    width: 500px;
+    height: 400px;
+}
+h1{
+    font-size: 35px;
+    line-height: 1.2;
+    font-family: 'Lobster', cursive;
+
+}
+h2{
+    font-size: 30px;
+    font-weight: 260;
+    font-family: 'Lobster', cursive;
+}
+#contact{
+    background-color: rgb(77, 16, 16);
+}
+#contact iframe{
+    width: 100%;
+    margin-top: 5px;
+}
+.contact_1 a{
+    color: antiquewhite;
+    text-shadow: none;
+}
+.contact_1 h3{
+    display: inline;
+}
+#home{
+    background: linear-gradient(rgb(31, 116, 131),aqua);
+    color: white;
+}
+#bio{
+    padding: 35px;
+    margin: auto;
+}
+.line{
+    height: 3px;
+    background-color: black;
+    width: 60px;
+    margin: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
